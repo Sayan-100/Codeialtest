@@ -1,3 +1,0 @@
-const development = {
-    name: 'development'
-}
